@@ -8,7 +8,7 @@ PHP Nginx MySQL
 
 1. ローカルにプロジェクトを入れるためのディレクトリを作成
 2. 1.で作成したディレクトリ内に移動し、githubからプロジェクトをクローン  
-   `$ git@github.com:takaokouki/shift-manage-app.git`
+   `$ git clone https://github.com/takaokouki/shift-manage-app.git`
 3. 作成されたプロジェクト内のappのディレクトリに移動  
    `$ cd shift-manage-app/app`
 4. 必要なライブラリをインストール  
